@@ -1,12 +1,95 @@
 DougDoug is not known as a poet, even among his fans. Yet this is precisely what makes him such an invaluable candidate for authentic analysis. As G. K. Chesterton observed, the democratic impulse must be felt not just in man's most important affairs, but also in his least important \autocite[73]{chesterton_orthodoxy}. If he cannot blow his own nose, dance his own jig, or write his own love letters, what hope does he have of running his own government? The populist-romantic impulse must ultimately be embodied or it loses its essential quality. In the age of spectacle this real, lived experience of poetry has gone under-appreciated. Even more, as Pope affirms, "there is hardly any human creature past childhood, but at one time or other has had some poetical evacuation, and, no question, was much the better for it in his health" \autocite[8]{pope_peri_bathous}.
 
-In his debut song "Death Roads," DougDoug delivers a scathing critique of the human condition and the tragicomic nature of art as a means of addressing such issues. Consider just the first four lines: "West Virginia / Take me roads / Country roads / Take me death" \autocite[0:09]{dougdoug_death_roads}. These echo the same iconic themes found in John Denver's "Take Me Home, Country Roads," but subtly subverted. Rather than the nostalgic and elegiac, we get something anthemic and thanatic. The peaceful reprisal to uncomplicated country life has been replaced with the unapologetic desire for death itself. 
+In his debut song "Death Roads," DougDoug delivers a scathing critique of the human condition and the tragicomic nature of art as a means of addressing such issues. Consider just the first four lines: 
 
+>West Virginia  
+Take me roads  
+Country roads  
+Take me death \autocite[0:09]{dougdoug_death_roads}
 
+These echo the same iconic themes found in John Denver's "Take Me Home, Country Roads," but subtly subverted. Rather than the nostalgic and elegiac, we get something anthemic and thanatic. The peaceful reprisal to uncomplicated country life has been replaced with the unapologetic desire for death itself. 
+
+The line "Take me roads" melds a complex set of emotions. Principally it represents the abandonment of agency, which Denver's original also delivers. But Doug introduces a grammatical ambiguity that ensures the line cannot be fully resolved. Is he addressing the roads themselves? Is he asking to be brought to these roads (as in the original "Take me home")? Is the "taking" a mere physical conveyance or a more intimate, sexual image? These unresolved questions destabilize the text, rendering it immediately as an uncooperative object, denying the listener any easy interpretation. That destabilization is immediately enhanced and implicitly parodied by the next four lines:
+
+>Oh, wait  
+De, lia  
+Death Road  
+Feh sigh ding \autocite[0:18]{dougdoug_death_roads}
+
+By saying "Oh, wait," the song communicates that even its author has lost track of its structure. What follows are the phonetic suggestions of a song. Meaning is unimportant as the lyrics dissolve semantically while simultaneously highlighting the central concept, which appears with striking clarity: "Death Road." This enigmatic figure haunts the text, contrasting with and usurping the place of the "country roads." The variegated, classically pastoral setting cannot withstand the monolithic, Modernist reaper-consumer. Doug reveals that Denver's roads were already "death roads," deficient from their outset. Doug continues this revelation though the reintroduction of "home" in the following lines:
+
+> Oh, the Death Road  
+Take me home  
+To Death Road  
+To a road  
+Where I belong \autocite[0:27]{dougdoug_death_roads}
+
+Death Road must "Take me home / to Death Road." This recursive structure links the beginning of the journey with its end. There is no way to mark progress because the journey itself is the destination. Death Road is "a road / Where I belong," further strengthening the song's underlying death-drive. The road acquires an inescapable, inevitable presence. The song's semantic instability reaches its apogee in the next section:
+
+>Raz bin road  
+Death Road  
+Ehhh road  
+Take me home  
+Death row \autocite[0:39]{dougdoug_death_roads}
+
+"Country roads" have been dissolved into "Raz bin road" while "Death Road" becomes "Ehhh road." Both verge into the unutterable. "Raz bin" itself evokes "has been," perhaps signaling a lingering sense of nostalgia leaking through from the original or the satirical mockery of that same nostalgia. The most radical element of this section subsists in the introduction of "Death row." By invoking the image of prisoners awaiting their execution, Doug fully strips the song of its romanticism. We are no longer taking a gentle journey. We are locked into a prison cell, awaiting a fate we have no hope of differing. Transformation has become petrification, motion has turned to stasis. 
+
+This somber image is suddenly interrupted by the single line "Hullo?" \autocite[0:55]{dougdoug_death_roads} This creates a textual rupture, a break in the performance. We have been thrust from the bardic realm into the "real world" (which is itself still an experience mediated by Internet protocols and streaming platforms). Doug-as-Streamer replaces Doug-as-Poet, though we know that they are the same person. By "switching costumes" during the performance and presenting this interrogative, the poem draws attention to the work *as performance*, asking the audience to question whether poetry is constructed through the right words, the right context, or something else entirely.
+
+In the following lines, there are two important points. The more substantial resides in the lines: "Take me home / To the road / I death" \autocite[1:13]{dougdoug_death_roads}. Here even the act to "belong" has been subsumed by death. Nor is the singer allowed the agency to "die," but rather the noun takes the place of the verb, further cementing the singer's sense of helplessness. Immediately following are the lines, "West Death Road / Take me home / Country row" \autocite[1:18]{dougdoug_death_roads}. The "West Death Road," which had appeared earlier, displaces the entire state of "West Virginia," making Death Road a truly omnipresent entity. 
+
+Following this, we get these lines: "Death Road (x3) / Death Ruh" \autocite[1:29]{dougdoug_death_roads}. The dreadful repetition builds tension and anticipation, while the sudden stuttering at "Death Ruh" symbolizes exhaustion and confusion. The singer is running through a maze of "death roads," able only to feebly utter: "Take me home / To a place" \autocite[1:41]{dougdoug_death_roads}. However, it's at this point that the singer flips from pursued to pursuer: 
+
+>Saw em  
+Death Road (x3)  
+To a death  
+Where I road \autocite[1:53]{dougdoug_death_roads} 
+
+The interjection of "Saw em," especially in the performance where it is spoken rather than sung, creates another rupture to signal the reversal. "To a death / Where I road" adds a double-entendre, as if the singer is now riding toward death. No longer is the singer passively asking for death. He is actively pursuing it. He has seen the way and takes action.
+
+The piece's most radical move appears near its end, starting with the lines, "Op, there's a pig / Shit" \autocite[2:10]{dougdoug_death_roads}. Here the context of the performance reasserts dominance. The singer is literally singing this song while being attacked by pigs, creating an intense comedic dissonance between the subject matter (the desire for death) and the situation where it is performed. Yet that dissonance exposes something critical about us as readers. We assume that to be mauled by pigs while singing a nonsensical song is a comedic contextualization, rather than respecting it as a real situation which could very well happen to someone. This notion that there are "comedic ways to die" represents the lingering pagan heroic mindset within the modern mind. Even if the idea that dying heroically in battle with an appropriate foe as the only way into Valhalla has been roundly and explicitly rejected, we can't help but be haunted by its instinctual logic. 
+
+The poetical convention is further undermined with the next lines, which have largely abandoned the pretense of song:
+
+>Ah, there's multiple of them  
+I paralyzed one  
+Paralyzing the other  
+Shit, shoot it, shoot it, shoot it, shoot it  
+For the love of God, shoot it  
+Fucking run  
+West Virginia  
+Wait, is it dead? \autocite[2:16]{dougdoug_death_roads}
+
+The only elements that inform us that this is a song are the repetition of "West Virginia" from the first line and the line breaks. The passage asks whether these minimal formal elements alone are enough to be "a song." It evokes previous Internet traditions of remixing news clips into music, turning the prosaic into something poetic through recontextualizing it. As for the core meaning of this segment, it represents the displacement of the death-drive from the singer onto the pigs. The fear and paralysis that the speaker felt previously is enacted as deliberate violence onto them. 
+
+There's palpable fear in the lines "Shit, shoot it, shoot it, shoot it, shoot it / For the love of God, shoot it." While the song has largely dispensed with the formal elements of lyric writing, such as meter and rhyme, this line demonstrates an even further abandonment, leaving behind even the song's own established conventions for a raw and unpolished scrawl. It's no longer a polite parody but an expletive-ridden screed that only vaguely gestures toward Denver's original. The question "Is it dead?" represents here a meta-question: Has the song committed its own deconstruction? Has the text's inherent instability made its own meaning unintelligible?
+
+The singer attempts to return to form, but the lines retain the aporic residue from the previous encounter:
+
+>Country roads  
+Ehhh, to a place  
+Where I Death Road  
+West Virginia  
+Virgin, AHHHH \autocite[2:30]{dougdoug_death_roads}
+
+Here we recognize the interjections of "Ehhh" and "AHHHH" not as mere lapses in memory but active interruption from the environment. Because the singer has rejected his previous acceptance of death and displaced his desire onto the environment, it has become actively hostile and disruptive. "Death Road" is no longer a vehicle or destination but has become the action of the singer himself. The specific corruption of "Virginia" into "Virgin" further expresses the singer's disgust for the unmolested, uncontrolled environment. Where in Denver's song the country's lack of urbanization is its primary allure, Doug inverts this value into an insult. 
+
+The song winds down with a bit of wordplay:
+
+>To the road  
+Where I road  
+To a place  
+Where the road? \autocite[2:46]{dougdoug_death_roads}
+
+These wordplays hide an important development in the song. As "Where I road [or rode]" becomes "Where the road?" we realize that the singer's previous confidence and determination have vanished, leaving him in a new suspended state of placelessness. Previously he knew the road, he knew the home, he knew "a place / Where I belong." Now he cannot even find "the road / Where I [rode] / To a place." This displacement and disorientation is absolute and complete. 
+
+The song ends with rage. In the final simmering lines we hear, "Take me home / To a road / Get fucked" \autocite[2:57]{dougdoug_death_roads}. The song is no longer evocative but desperate. Rather than a traveller trying to get home after a long trip, it has become the desperate plea of someone lost in the woods or stuck on a sinking ship. He wants to be brought home, or just to a road. Failing these, he has nothing left to say except to curse at the world in his final moments.
+
+DougDoug's "Death Roads" doesn't yield to critical insights easily, but as we can see, through careful close reading we can see the invaluable themes and subjects it addresses. Hopefully it has also inspired you to take up a hum or two for yourself, whether you do it while showering or during a swine attack. It's the democratic thing to do.
 
 ### In Defense of Poetry
 
-Why not a novel? Why all this fuss about counting syllables and splitting sentences across multiple lines? There are several reasons, but the first is of course to take up more pages with only a small amount of story so that the bookseller can charge more for the same amount of words. Unfortunately, the marketplace has made this natural and necessary practice seem an artificial and dull inefficiency, so that Serious Literature must now be packed so finely onto a page that no one bothers with actually reading it. I prefer to give my words the room to roam around as they please.
+Yet we must still ask, why all this fuss about counting syllables and splitting sentences across multiple lines? There are several reasons, but the first is of course to take up more pages with only a small amount of story so that the bookseller can charge more for the same amount of words. Unfortunately, the marketplace has made this natural and necessary practice seem an artificial and dull inefficiency, so that Serious Literature must now be packed so finely onto a page that no one bothers with actually reading it. I prefer to give my words the room to roam around as they please.
 
 The next most important reason is that there are things that you just cannot say in a novel and only occasionally in a play. Such a line as "My love shall in my verse ever live young." In a novel you might only include it as something spoken by a foolish and naive character, so as to make fun of Romantic sentimentalism. Prose by design demands a diminished sentiment, as it must be an easy thing that could have just as likely occurred as a conversation over cups of coffee. I am reliably told that all Italian novels now are set in a café to match the environment that they are most likely to be read in. The need to make everything with Upmost Seriousness has made it impossible to talk of anything really important. All good art is based on a broken heart, and true emotion does not flourish in the binds of parliamentary decorum.
 
@@ -20,9 +103,16 @@ The second group of poets says, "Oh, but there were rules." When asked, "Ah, but
 
 I use this analogy as an apology for my own practice. Rather than sit down with the little girl and follow her lead (and she has been practicing for a very long time, and thus is very good at putting on her little tea parties!), I prefer to play the secret game by myself and make a private tea party for myself, always questioning some sort of practice (are stuffed animals truly necessary?). This I hope has lead to something truly unique, even if they aren't the most pleasant tea parties. 
 
-Some critics may call these "achey allegories," "rhetorical sleight-of-hand," and "straw men." I can only reply that we live in a more civilized age where the practice of burning your interlocutors at the stake has fallen out of favor. Providing a straw effigy in their place best balances the need for violent rebuke and the unromantic desire of our contemporary poets to avoid pain, death, and public accountability. There are a few Andrew Carnegies who have proposed "steel men" for this purpose, owing to their durability and reusability. Undoubtedly, this ecological concern is a flimsy mask for their industrialist intensions. I for one treasure the traditional approach. Much like my Christmas trees, I prefer that my opponents retain their unpredictable combustibility. 
+### Original Variations on "Death Roads"
 
-Given this admission, I do still have plans to counteract any unpleasantness that a sensitive reader may experience. The action is suffused with contradictory emotions, so that the hottest passions are tempered by the coldest ironies, providing the reader with a perfectly tepid bathos. This ensures maximal comfort while the reader's mind drowns in its eisegetic search for subtext. Furthermore, I have employed words which have forgotten meanings or which have more than one meaning, so that if any part of the story should offend the readers, they can substitute an alternative meaning to make the story more agreeable to them. With a small amount of effort this can be applied to every word, thus making the work a most marvelous story within the reader's mind. Having dissolved the text and no longer in need of the book, the reader can employ its paper to better uses, such as wrapping gifts, packing glassware, or kindling for his own poet-burning parties.
+Take me, O Roads, to those Western lands,  
+To an old country that knows death.  
+Heed me, O Time: release your sands,  
+Until there is not one grain left  
+And the wrinkles map out my hands.  
+Take me, O Death, t' a sunlit field  
+Where Man's true natures are revealed.  
+
 
 
 
