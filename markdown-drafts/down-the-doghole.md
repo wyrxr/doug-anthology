@@ -1,5 +1,11 @@
 DougDoug is not known as a poet, even among his fans. Yet this is precisely what makes him such an invaluable candidate for authentic analysis. As G. K. Chesterton observed, the democratic impulse must be felt not just in man's most important affairs, but also in his least important \autocite[73]{chesterton_orthodoxy}. If he cannot blow his own nose, dance his own jig, or write his own love letters, what hope does he have of running his own government? The populist-romantic impulse must ultimately be embodied or it loses its essential quality. In the age of spectacle this real, lived experience of poetry has gone under-appreciated. Even more, as Pope affirms, "there is hardly any human creature past childhood, but at one time or other has had some poetical evacuation, and, no question, was much the better for it in his health" \autocite[8]{pope_peri_bathous}.
 
+Yet we must still ask, why all this fuss about counting syllables and splitting sentences across multiple lines? There are many reasons, but the most important is of course to take up more pages with only a small amount of story so that the bookseller can charge more for the same amount of words. Unfortunately, the marketplace has made this natural and necessary practice seem an artificial and dull inefficiency, so that Serious Literature must now be packed so finely onto a page that no one bothers with actually reading it. True poets prefer to give their words the room to roam around as they please.
+
+The next most important reason is that there are things that you just cannot say except in a poem. Such a line as "My love shall in my verse ever live young" \autocite[Sonnet 19.14]{shakespeare}. In a novel you might only include it as something spoken by a foolish and naive character, so as to make fun of Romantic sentimentalism. Prose by design demands a diminished sentiment, as it must be an easy thing that could have just as likely occurred as a conversation over cups of coffee. I am reliably told that all Italian novels now are set in a café to match the environment that they are most likely to be read in. The need to make everything with Upmost Seriousness has made it impossible to talk of anything really important. True emotions do not flourish in the binds of parliamentary decorum.
+
+But what makes *poetry* special? Why can you say such a thing as "My love shall in my verse ever live young"? Or rather, why can't you just say the same thing in the *normal* way? "My love lives forever in my poetry" seems like a fine and sturdy sentence, after all. There even seems to be a novel inside of it, if you stare long enough. You can see two lovers exchanging letters across time (it must be time travel, since simple parental disapproval isn't taken seriously in our age as the cause of a star-crossed relationship). But there's the rub. The novel was within the line. The novel cannot contain the poetry because the poem already contained the novel. Let us then pry open an exemplary little chestnut to see what sort of sprawling meaning it might contain.
+
 In his debut song "Death Roads," DougDoug delivers a scathing critique of the human condition and the tragicomic nature of art as a means of addressing such issues. Consider just the first four lines: 
 
 >West Virginia  
@@ -38,10 +44,20 @@ This somber image is suddenly interrupted by the single line "Hullo?" \autocite[
 
 In the following lines, there are two important points. The more substantial resides in the lines: "Take me home / To the road / I death" \autocite[1:13]{dougdoug_death_roads}. Here even the act to "belong" has been subsumed by death. Nor is the singer allowed the agency to "die," but rather the noun takes the place of the verb, further cementing the singer's sense of helplessness. Immediately following are the lines, "West Death Road / Take me home / Country row" \autocite[1:18]{dougdoug_death_roads}. The "West Death Road," which had appeared earlier, displaces the entire state of "West Virginia," making Death Road a truly omnipresent entity. 
 
-Following this, we get these lines: "Death Road (x3) / Death Ruh" \autocite[1:29]{dougdoug_death_roads}. The dreadful repetition builds tension and anticipation, while the sudden stuttering at "Death Ruh" symbolizes exhaustion and confusion. The singer is running through a maze of "death roads," able only to feebly utter: "Take me home / To a place" \autocite[1:41]{dougdoug_death_roads}. However, it's at this point that the singer flips from pursued to pursuer: 
+Following this, we get these lines: 
+
+>Death Road  
+Death Road  
+Death Road  
+Death  
+Death Ruh \autocite[1:29]{dougdoug_death_roads}
+
+The dreadful repetition builds tension and anticipation, while the sudden stuttering at "Death Ruh" symbolizes exhaustion and confusion. The singer is running through a maze of "death roads," able only to feebly utter: "Take me home / To a place" \autocite[1:41]{dougdoug_death_roads}. However, it's at this point that the singer flips from pursued to pursuer: 
 
 >Saw em  
-Death Road (x3)  
+Death Road  
+Death Road  
+Death Road  
 To a death  
 Where I road \autocite[1:53]{dougdoug_death_roads} 
 
@@ -64,7 +80,7 @@ The only elements that inform us that this is a song are the repetition of "West
 
 There's palpable fear in the lines "Shit, shoot it, shoot it, shoot it, shoot it / For the love of God, shoot it." While the song has largely dispensed with the formal elements of lyric writing, such as meter and rhyme, this line demonstrates an even further abandonment, leaving behind even the song's own established conventions for a raw and unpolished scrawl. It's no longer a polite parody but an expletive-ridden screed that only vaguely gestures toward Denver's original. The question "Is it dead?" represents here a meta-question: Has the song committed its own deconstruction? Has the text's inherent instability made its own meaning unintelligible?
 
-The singer attempts to return to form, but the lines retain the aporic residue from the previous encounter:
+The singer attempts to return to form, but the lines retain the aporetic residue from the previous encounter:
 
 >Country roads  
 Ehhh, to a place  
