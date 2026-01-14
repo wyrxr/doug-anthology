@@ -3,7 +3,7 @@
 
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-[![Status: Satire](https://img.shields.io/badge/Status-Rigged-red.svg)]()
+[![Status: Satire](https://img.shields.io/badge/Status-ROGGED-red.svg)](https://youtu.be/DHk8qpAmTOo?si=X7UY9i2n8tc7dkyC)
 
 > "DougDoug may or may not be real. Douglas Studies is only real insofar as this anthology has made it so." — *Nathaniel Ingle, Editor-in-Chief*
 
