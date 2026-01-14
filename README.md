@@ -42,3 +42,41 @@ pdflatex main
 
 # 4. Final polish (resolves page numbers and labels)
 pdflatex main
+```
+
+*Note: If you use a tool like `latexmk` or the VimTeX plugin, it should handle this sequence automatically.*
+
+## 📂 Project Structure
+
+* `main.tex` - The root file that orchestrates the entire book.
+* `preamble.tex` - Contains all packages, custom commands, and style definitions.
+* `references.bib` - The database of fictional (and real) citations.
+* `articles/` - Individual chapter files (e.g., `article-01-the-bit.tex`).
+* `images/` - Graphics, woodcut logos, and charts.
+
+## ⚖️ Licensing
+
+This project is **Dual Licensed** to support both open creativity and open code.
+
+### 1. The Content (Text & Art)
+
+**License:** [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](http://creativecommons.org/licenses/by-sa/4.0/)
+
+The narrative text, fictional articles, jokes, characters, and the final compiled PDF are open content. You are free to:
+
+* **Share:** Copy and redistribute the material in any medium.
+* **Adapt:** Remix, transform, and build upon the material (even commercially).
+
+**Condition:** You must give appropriate credit to **Nathaniel Ingle** and distribute your contributions under the same license.
+
+### 2. The Source Code (LaTeX Templates)
+
+**License:** [GNU General Public License v3.0 (GPLv3)](https://www.gnu.org/licenses/gpl-3.0)
+
+The LaTeX logic, formatting macros, styling code, and build scripts are free software.
+
+* If you use this repository's layout code to create your own project, you must preserve the license and open-source your modifications to the code.
+
+---
+
+**Saint Rosa's Cathedral Press** *Est. 1751*
