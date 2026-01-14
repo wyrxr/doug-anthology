@@ -1,0 +1,74 @@
+% --- PACKAGES ---
+\usepackage[utf8]{inputenc} % Handles standard text encoding
+\usepackage{graphicx}       % For images
+\usepackage{titlesec}       % To customize chapter titles
+\usepackage{fancyhdr}       % For headers and footers
+\usepackage{lipsum}         % For dummy text generation
+\usepackage[hidelinks]{hyperref}       % For clickable links in the PDF
+\usepackage{ebgaramond}
+\usepackage{caption}
+\usepackage{ccicons}
+
+% --- PAGE LAYOUT ---
+\usepackage[
+	paperwidth=6in,
+	paperheight=9in,
+	margin=0.75in,
+	bindingoffset=0.25in
+]{geometry}
+
+% --- CUSTOM COMMAND FOR AUTHORS (With ToC Entry) ---
+\makeatletter
+\newcommand{\chapterauthor}[1]{%
+    % 1. Format the name on the actual page
+    {\parindent0pt\vspace*{-25pt}%
+    \linespread{1.1}\large\scshape#1%
+    \par\nobreak\vspace*{35pt}}
+    \@afterheading%
+    
+    % 2. Inject the name into the Table of Contents
+    \addtocontents{toc}{%
+        \protect\setlength{\parindent}{1em} % Ensures no weird indentation
+        {\itshape #1}\par       % Prints the name in Italics
+        \protect\vspace{10pt}  % Adds a little space after the name
+    }%
+}
+\makeatother
+
+% --- HEADER/FOOTER STYLE ---
+\pagestyle{fancy}
+\fancyhf{} % Clear all previous settings
+
+% 1. Page Numbers (Outer Edges)
+\fancyhead[LE,RO]{\thepage} 
+
+% 2. Left Page (Even): Static Anthology Name
+% [RE] = Right side of Even page (Inner margin)
+\fancyhead[RE]{\emph{DONATIONS, DEATH ROADS, AND DOGS}} 
+
+% 3. Right Page (Odd): Dynamic Article Title
+% [LO] = Left side of Odd page (Inner margin)
+\fancyhead[LO]{\leftmark} 
+
+% 4. CLEAN UP: This command ensures the header only shows the 
+% Title text, removing any "Chapter 1" labels automatically.
+\renewcommand{\chaptermark}[1]{\markboth{#1}{}}
+% --- CHAPTER TITLE FORMATTING ---
+\titleformat{\chapter}[display]
+  {\normalfont\huge\bfseries} % Format: Centered, Huge, Bold
+  {}      % <--- The "Label". Leave this empty to remove "Chapter 1"
+  {0pt}   % <--- Space between the label and title (0pt since label is gone)
+  {\Huge} % <--- Font size of the Title itself
+\setcounter{secnumdepth}{-1} % Disables numbering for chapters
+
+% --- BIBLIOGRAPHY SETTINGS ---
+\usepackage[style=mla, backend=biber]{biblatex}
+\addbibresource{references.bib} % Tells LaTeX where your data is
+
+\usepackage{imakeidx}
+\makeindex[columns=2, title=Index, intoc] % 2 columns, adds "Index" to ToC
+
+\hypersetup{
+    pdftitle={Donations, Death Roads, and Dogs},
+    pdfauthor={Nathaniel Ingle}
+}

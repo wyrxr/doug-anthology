@@ -1,0 +1,37 @@
+% --- PACKAGES ---
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage{titlesec}
+\usepackage{fancyhdr}
+\usepackage{lipsum}
+\usepackage[hidelinks]{hyperref}
+\usepackage{ebgaramond}
+\usepackage{microtype} % <--- Fixes the "Overfull hbox" / jagged text issues
+
+% --- PAGE LAYOUT ---
+\usepackage[
+    paperwidth=6in,
+    paperheight=9in,
+    margin=0.75in,
+    bindingoffset=0.25in
+]{geometry}
+
+% --- HEADER HEIGHT FIX ---
+\setlength{\headheight}{15pt} % <--- Fixes the fancyhdr warning
+
+% --- CUSTOM COMMAND FOR AUTHORS ---
+\makeatletter % <--- "Turns on" the @ symbol so the next command works
+\newcommand{\chapterauthor}[1]{%
+    {\parindent0pt\vspace*{-25pt}%
+    \linespread{1.1}\large\scshape#1%
+    \par\nobreak\vspace*{35pt}}
+    \@afterheading%
+}
+\makeatother % <--- "Turns off" the @ symbol
+
+% --- HEADER/FOOTER STYLE ---
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[LE,RO]{\thepage}
+\fancyhead[RE]{\leftmark}
+\fancyhead[LO]{\rightmark}

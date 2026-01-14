@@ -1,0 +1,230 @@
+\documentclass[12pt]{book} 
+
+% --- IMPORT SETTINGS ---
+\input{preamble}
+
+\begin{document}
+\index{Donations, Death Roads, and Dogs|(}
+% --- FRONT MATTER (Roman numerals, no chapter numbers) ---
+\frontmatter
+
+% --- HALF TITLE PAGE ---
+\thispagestyle{empty}
+\vspace*{6cm} % Pushes the text down about 1/3rd of the page
+
+\begin{center}
+    % Use Small Caps (\scshape) for a classic, understated look
+    {\Large \scshape Donations, Deaths Roads, and Dogs}
+\end{center}
+
+% --- OPTIONAL: FAKE "ALSO BY" PAGE ---
+\newpage
+\thispagestyle{empty}
+\vspace*{5cm}
+\begin{center}
+    \textbf{Also by the Editor:}\\[1em]
+	\textit{The Historiography of "Minecraft Civilization" Videos (2023)}\\
+    \textit{Odussy: How Fan-Fiction Authors Mediate Themes of Faithfulness and Sexual Activity in the Odyssey (2024)}\\
+    \textit{Media Literacy? Wow, That's Literally Me (2025)}\\
+\end{center}
+\newpage
+
+% --- CUSTOM TITLE PAGE (Recto / Right) ---
+\begin{titlepage}
+    \centering
+    \vspace*{2cm}
+    
+    {\Huge \bfseries Donations, Death Roads, and Dogs \par} 
+    \vspace{0.5cm}
+    
+    {\Large \itshape An Anthology of Critical Douglas Studies, Third Edition \par}
+    \vspace{2.5cm}
+    
+    {\large Edited by \par}
+    {\Large Nathaniel Ingle \par}
+    
+    \vfill % Pushes the logo to the bottom
+    
+    % Logo Section
+    \includegraphics[width=0.4\textwidth]{images/logo.png} \\
+    \vspace{0.25cm}
+    {\large Saint Rosa's Cathedral Press\par}
+    \vspace{1cm}
+    
+    {\large 2026 \par}
+\end{titlepage}
+
+% Copyright Page
+\thispagestyle{empty}
+\vspace*{\fill}
+\begin{center}
+    Copyright \copyright\ 2026 by Nathaniel Ingle. \\
+
+    \vspace{1em}
+
+    % --- THE CREATIVE COMMONS NOTICE ---
+    \ccbysa\ This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License.\\
+    To view a copy of this license, visit:\\
+    \url{http://creativecommons.org/licenses/by-sa/4.0/}
+
+    \vspace{1em}
+    Cover art: Edward Weston, ``Pepper No. 30 (Colorized),'' 1930 \\ 
+    Photograph, 24.1 $\times$ 19.2 cm. Public domain.\\ 
+    \vspace{3em}
+    This is a work of satire. The authors and opinions that appear in this volume are entirely fictional. Any resemblance to real-world events, people, or movements is entirely coincidental. DougDoug may or may not be real. Douglas Studies is only real insofar as this anthology has made it so.\\
+\vspace{1.5em}
+    % --- FAKE LIBRARY OF CONGRESS BLOCK ---
+\begin{minipage}{0.9\textwidth} % Constrain width to look like a block
+    \small % Use smaller font for that "fine print" look
+    \setlength{\parskip}{0.2em}
+    \setlength{\parindent}{0pt}
+    
+    Publisher's Catalogue-in-Publication Data\\
+    
+    \textit{Donations, Death Roads, and Dogs: An Anthology of Critical Douglas Studies} / edited by Nathaniel Ingle. -- Third Edition.
+    
+    \vspace{0.5em}
+    p. cm. \\
+    Includes bibliographical references and index. \\
+    ISBN 979-8-2437-5214-5 (pbk.)
+    
+    \vspace{0.5em}
+    1. Douglas Studies--Philosophy. 2. Streaming (Technology)--Social aspects. 3. Bell peppers in popular culture. 4. Divorce--Psychological aspects. 5. Baldness--Anecdotes. I. Ingle, Nathaniel, editor. II. Title.
+    
+    \vspace{0.5em}
+    PN1992.8.S74 D68 2026 \hfill 302.23'1--dc23
+\end{minipage}
+
+\vspace{1.5em}
+
+    ISBN: 9798243752145\\
+\end{center}
+\vspace*{\fill}
+\newpage
+
+% Dedication
+\chapter*{}
+\begin{center}
+    \emph{To the viewers. \\ You truly are the main character.}
+    
+    \vspace{1em} % This creates the "blank line" (1em = height of one line of text)
+    
+    \textbf{BABAGABOOSH!!}
+\end{center}
+
+% Table of Contents
+\tableofcontents
+
+\chapter*{Preface to the Third Edition}
+\addcontentsline{toc}{chapter}{Preface to the Third Edition}
+\input{frontmatter/preface3}
+
+\chapter*{Preface to the Second Edition}
+\addcontentsline{toc}{chapter}{Preface to the Second Edition}
+\input{frontmatter/preface2}
+
+% Preface
+\chapter*{Preface to the First Edition}
+\addcontentsline{toc}{chapter}{Preface to the First Edition}
+\input{frontmatter/preface} % This pulls text from /frontmatter/preface.tex
+
+% Defining Douglas
+\chapter*{Defining Douglas}
+\markboth{DEFINING DOUGLAS}{}
+\addcontentsline{toc}{chapter}{Defining Douglas}
+\input{frontmatter/defining-douglas}
+
+% --- MAIN MATTER (Arabic numerals, actual articles) ---
+\mainmatter
+
+% The Bit
+\chapter{The Bit: Where the Capitalist Meets the Carnivalesque}
+\chapterauthor{Charlotte Sneed} 
+\input{articles/article-01-the-bit}
+
+% One Thousand and One Dougs
+\chapter{One Thousand and One Dougs: How DOUG: A DougDoug Story Mocks Quotidian Monotony and the Dread of Death}
+\chapterauthor{Bily Slon}
+\input{articles/article-02-one-thousand-dougs}
+
+% ... by John Strike
+\chapter{...}
+\chapterauthor{John Strike}
+\input{articles/ellipses}
+
+% The DougDoug Situation Is Absolutely Embarrassing  
+\chapter{The DougDoug Situation Is Absolutely Embarrassing}
+\chapterauthor{Brett Beubb}
+\input{articles/dougdoug-situation}
+
+% Untitled by Unknown
+\chapter{Untitled}
+\chapterauthor{Unknown}
+
+[The proceeding pages have been intentionally left blank for the inclusion of a post-publication article.]
+% Adds 7 completely empty pages
+\newcount\i
+\i=0
+\loop
+    \ifnum\i<7 % Change to however many pages you want
+    \null
+    \newpage
+    \advance\i by 1
+\repeat
+
+% Cat, Lawyer, Cop
+\chapter[Cat, Laweyer, Cop: Constructed Identities and Their Consequences]{Cat, Lawyer, Cop:\\ Constructed Identities\\ and Their Consequences}
+\chapterauthor{Hwyaden Scrimblow}
+\input{articles/cat-lawyer-cop}
+
+% Transcript of a Conversation...
+\chapter{Transcript of a Conversation Between Two Homeless Men That I Overheard While Waiting For the Bus}
+\chapterauthor{Lucian Gregory}
+\input{articles/transcript-of-a-conversation}
+
+% They Got That Dog in Them
+\chapter{They Got That Dog in Them: How Internet Trolls Channel the Philosophy and Spirit of Diogenes}
+\chapterauthor{Athenagoras Meridarpax}
+\input{articles/they-got-that-dog}
+
+% Rigged But Fair
+\chapter{Rigged But Fair: How East Asian Philosophy Confronts Western Fatalism}
+\chapterauthor{Manfu Jinglun Weiss-Mensche}
+\input{articles/rigged-but-fair}
+
+% Memes of Production
+\chapter{Memes of Production: Unpaid Labor Within the Streamer Economy}
+\chapterauthor{Juliet Jepardi}
+\input{articles/memes-of-production}
+
+% Down the Doghole
+\chapter{Down the Doghole: Lyrical Variations on DougDoug's ``Death Roads''}
+\chapterauthor{Lyly Scriblerus}
+\input{articles/down-the-doghole}
+
+% Individual Repression 
+\chapter{Individual Repression or Collective Gaslighting? New Psychoanalytic Theories of ``Lore''}
+\chapterauthor{B. B. Braille}
+\input{articles/individual-repression}
+
+% The Communicant and the Consumer
+\chapter{The Communicant and the Consumer: The Function of Sanctity in Streamer-Spaces}
+\chapterauthor{Jean-François Cul-de-Sac}
+\input{articles/communicant-and-consumer}
+
+% Stay Strong, Stay True
+\chapter{``Stay Strong, Stay True, Always Be Kind to Others and Always Strive to Make the World a Better Place'': Stochastic Wisdom in a Cynical Age}
+\chapterauthor{Ai Uta}
+\input{articles/stay-strong-stay-true}
+
+
+\index{Donations, Death Roads, and Dogs|)}
+% --- BACK MATTER ---
+\backmatter
+\printindex
+% Index generation commands go here later
+\printbibliography[
+    title={Works Cited}, % Sets the title on the page
+    heading=bibintoc     % Adds "Works Cited" to the Table of Contents
+]
+\end{document}

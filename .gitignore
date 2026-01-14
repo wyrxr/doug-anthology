@@ -1,0 +1,28 @@
+# --- LaTeX Build Files (Ignore these) ---
+*.aux
+*.log
+*.out
+*.toc
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.bbl
+*.blg
+*.xdv
+*.run.xml
+*.bcf
+*.lof
+*.lot
+*.ind
+*.idx
+*.ilg
+
+# --- Editor Temporary Files ---
+.DS_Store
+*.swp
+*~
+
+# --- Optional: Ignore the PDF? ---
+# Uncomment the next line if you ONLY want to track the source code
+# and not the compiled book (saves space).
+*.pdf
