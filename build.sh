@@ -78,17 +78,16 @@ run_pandoc() {
     outdir="$(dest_for "$base")"
     out="$outdir/$stem.tex"
 
-    # Only rebuild if input is newer than output (or output missing)
-    if [[ ! -f "$out" || "$f" -nt "$out" ]]; then
       echo "pandoc: $f -> $out"
-      pandoc "$f" \
-        -f "$PANDOC_FROM" \
-        -t "$PANDOC_TO" \
-        "${PANDOC_OPTS[@]}" \
-        -o "$out"
-    else
-      echo "pandoc: up-to-date: $out"
-    fi
+      {
+	echo '% This file was generated automatically by pandoc. Do not edit manually.'
+	echo '%-----------------------------------------------------------------------'
+	echo
+        pandoc "$f" \
+          -f "$PANDOC_FROM" \
+          -t "$PANDOC_TO" \
+          "${PANDOC_OPTS[@]}"
+      } > "$out"
   done
 }
 

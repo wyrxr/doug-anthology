@@ -16,6 +16,7 @@
 *.ind
 *.idx
 *.ilg
+/test/
 
 # --- Editor Temporary Files ---
 .DS_Store
