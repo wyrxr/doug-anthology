@@ -1,5 +1,33 @@
-DougDoug has long been the subject of intense interest and speculation not only amid Britain, Ireland, and the European content creators, but worldwide. This interest has produced a treasure-trove of analysis, contextualization, and healthy debate. The present volume owes everything to the critics who laid the groundwork for this field of inquiry. That said, what value does yet another addition to this already crowded field provide? In truth there is nothing new or unique within these pages. The editors have eschewed pursuing groundbreaking work for the much more monumental task of selecting the "best hits" of an already deeply controversial academic lineage.  
+DougDoug has long been the subject of intense interest and speculation
+not only amid Britain, Ireland, and the European content creators, but
+worldwide. This interest has produced a treasure-trove of analysis,
+contextualization, and healthy debate. The present volume owes
+everything to the critics who laid the groundwork for this field of
+inquiry. That said, what value does yet another addition to this already
+crowded field provide? In truth there is nothing new or unique within
+these pages. The editors have eschewed pursuing groundbreaking work for
+the much more monumental task of selecting the "best hits" of an
+already deeply controversial academic lineage.
 
-Our hope is that by providing the essential texts, the best above the rest, the student can gain immediate access to and appreciation of Douglas Studies as a subject and theoretical framework. As the most neglected branch of our embattled Humanities, Douglas Studies is frequently called upon to "prove" its unique value and insight in a world defined by career opportunities, stakeholder value, and fickle undergraduate interests. That conversation then is endlessly complicated by academics who cannot agree whether their subject's purpose consists of cultivating the appreciation or the critical deconstruction of "Douglas" (itself a term whose definition is perpetually scrutinized, displaced, and reconstructed). The present volume does not seek to reconcile these divergent interpretations, but it does provide the context and historical frameworks required to understand how these differing interpretations arose and why they remain so entrenched and uncooperative.
+Our hope is that by providing the essential texts, the best above the
+rest, the student can gain immediate access to and appreciation of
+Douglas Studies as a subject and theoretical framework. As the most
+neglected branch of our embattled Humanities, Douglas Studies is
+frequently called upon to "prove" its unique value and insight in a
+world defined by career opportunities, stakeholder value, and fickle
+undergraduate interests. That conversation then is endlessly complicated
+by academics who cannot agree whether their subject's purpose consists
+of cultivating the appreciation or the critical deconstruction of
+"Douglas" (itself a term whose definition is perpetually scrutinized,
+displaced, and reconstructed). The present volume does not seek to
+reconcile these divergent interpretations, but it does provide the
+context and historical frameworks required to understand how these
+differing interpretations arose and why they remain so entrenched and
+uncooperative.
 
-The present volume, above everything else, provides a stable foundation for both a student's academic life and their own personal growth. These timeless texts, chosen for their enduring quality and consistently insightful voice across generations, will appeal to specialists and the inquisitive general reader alike. It's also quite handsome when wrapped up as a Christmas gift for every member of your friends and family.  
+The present volume, above everything else, provides a stable foundation
+for both a student's academic life and their own personal growth. These
+timeless texts, chosen for their enduring quality and consistently
+insightful voice across generations, will appeal to specialists and the
+inquisitive general reader alike. It's also quite handsome when wrapped
+up as a Christmas gift for every member of your friends and family.

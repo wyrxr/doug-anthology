@@ -1,1 +1,2 @@
+TEST
 [An exploration of both the "bit" as Twitch currency and as a mode of mediated performance—a "magic circle" that streamer and audience enter and actively participate in, transforming acts that would be absurd in the "ordinary" world into soft contractual obligations (playing by the "rules of the game")]

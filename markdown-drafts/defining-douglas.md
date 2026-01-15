@@ -1,29 +1,87 @@
-Douglas, colloquially known as DougDoug, is the central signifier within the broader context of Douglas Studies. Importantly, Douglas and Doug serve as specific terms of art whose definitions are less important than their value for distinguishing between respected academics and the uneducated rube. Before committing to a concrete definition, we must first explore the primary schools of thought underpinning the various definitions of "Douglas." 
+Douglas, colloquially known as DougDoug, is the central signifier within
+the broader context of Douglas Studies. Importantly, Douglas and Doug
+serve as specific terms of art whose definitions are less important than
+their value for distinguishing between respected academics and the
+uneducated rube. Before committing to a concrete definition, we must
+first explore the primary schools of thought underpinning the various
+definitions of "Douglas."
 
-### THE ESSENTIALIST SCHOOL
+\subsubsection{THE ESSENTIALIST SCHOOL}\label{the-essentialist-school}
 
-The Essentialist School of Douglas Studies posits that there are various inherent "Dougnesses" which define an object, such as "bald" and "bad at 2D platformers."  These "Dougnesses" collectively place the object within a Great Chain of Doug based on their Douglikeness. Doug Essentialists view everything as containing some degree of Douglikeness, even if the object has almost no propinquity to the ideal Doug.  
+The Essentialist School of Douglas Studies\index{Essentialist School of Douglas Studies} posits that there are various
+inherent "Dougnesses" which define an object, such as "bald" and "bad at 2D platformers."\index{Bad at 2D Platformers} These "Dougnesses" collectively place the
+object within a Great Chain of Doug based on their Douglikeness. Doug
+Essentialists view everything as containing some degree of Douglikeness,
+even if the object has almost no propinquity to the ideal Doug.
 
-The major criticism this school receives is its tautological nature. We know a Doug because it has certain attributes, and we know that those attributes are the right ones because a Doug has them. This kind of question-begging finds strong critiques from scholars who want to question some or all of the assumed values these "Dougnesses" embody.  
+The major criticism this school receives is its tautological nature. We
+know a Doug because it has certain attributes, and we know that those
+attributes are the right ones because a Doug has them. This kind of
+question-begging finds strong critiques from scholars who want to
+question some or all of the assumed values these "Dougnesses" embody.
 
-### THE HISTORICIST SCHOOL
+\subsubsection{THE HISTORICIST SCHOOL}\label{the-historicist-school}
 
-The Historicist School views Douglas as inseparable from the historical context that produced it—specifically, the real, 21st-century Twitch streamer and YouTuber Douglas "DougDoug" Scott Wreden and his community. These physical-historical facts take precedence over artistic, philosophical, or metaphysical concerns. These scholars often fight back against what they see as "encroachment," or the development of the field beyond its historical boundaries. They are primarily concerned with identifying and eliminating "accretions," i.e., the supposedly inauthentic traditions or interpretations of later scholars.  
+The Historicist School\index{Essentialist School of Douglas Studies} views Douglas as inseparable from the historical
+context that produced it---specifically, the real, 21st-century Twitch
+streamer and YouTuber Douglas "DougDoug" Scott Wreden and his
+community. These physical-historical facts take precedence over
+artistic, philosophical, or metaphysical concerns. These scholars often
+fight back against what they see as "encroachment," or the development
+of the field beyond its historical boundaries. They are primarily
+concerned with identifying and eliminating "accretions," i.e., the
+supposedly inauthentic traditions or interpretations of later scholars.
 
-The major criticism against this school often centers around its inability to adapt to evolving knowledge in the field. As the famed Douglasian scholar Grimden Penrose puts it: "They treat us like a marble statue. Everything's already there, they just gotta chip away at the 'pseudo-intellectual' exterior. But we are not [...] marble. We are a shrub trying to grow into a mighty tree, though struggling under [their] constipant [sic] haranguing and pruning" (Penrose 42).   
+The major criticism against this school often centers around its
+inability to adapt to evolving knowledge in the field. As the famed
+Douglasian scholar Grimden Penrose puts it: "They treat us like a
+marble statue. Everything's already there, they just gotta chip away at
+the `pseudo-intellectual' exterior. But we are not [...] marble.
+We are a shrub trying to grow into a mighty tree, though struggling
+under [their] constipant [sic] haranguing and pruning" \autocite[42]{penrose_shrub}.
 
-### THE EVOLUTIONARY PSYCHOLOGY SCHOOL
+\subsubsection{THE EVOLUTIONARY PSYCHOLOGY
+SCHOOL}\label{the-evolutionary-psychology-school}
 
-Unsurprisingly, the Evolutionary Psychology school views "Douglas" as a necessary component of our survival. Ancient humans encountered a world where "Douglas" proved useful, and thus those individuals which expressed "Douglas" were more fit than their non-Doug counterparts. The proponents of this school also view "Doug" as a psychological phenomenon that people experience but which is not real in a metaphysical sense. These experiences are actually derived from hallucination, mass psychosis, or trickery, each of which served an important role in the ancestral environment. Several scholars from this school have protested against public funding for Doug-based education. 
+Unsurprisingly, the Evolutionary Psychology school\index{Evolutionary Psychology School of Douglas Studies} views "Douglas" as
+a necessary component of our survival. Ancient humans encountered a
+world where "Douglas" proved useful, and thus those individuals which
+expressed "Douglas" were more fit than their non-Doug counterparts.
+The proponents of this school also view "Doug" as a psychological
+phenomenon that people experience but which is not real in a
+metaphysical sense. These experiences are actually derived from
+hallucination, mass psychosis, or trickery, each of which served an
+important role in the ancestral environment. Several scholars from this
+school have protested against public funding for Doug-based education.
 
-The deceptive simplicity of this school makes it especially popular in the modern discourse. However, critics have identified some important caveats. This school views the existence of "Douglas" in the present as proof that it must have survived the selective pressures of the past, but there is no historical evidence for "Douglas" in prehistoric man or at any point which could be influential on an evolutionary time scale.
+The deceptive simplicity of this school makes it especially popular in
+the modern discourse. However, critics have identified some important
+caveats. This school views the existence of "Douglas" in the present
+as proof that it must have survived the selective pressures of the past,
+but there is no historical evidence for "Douglas" in prehistoric man
+or at any point which could be influential on an evolutionary time
+scale.
 
-### THE SOCIAL CONSTRUCTIVIST SCHOOL
+\subsubsection{THE SOCIAL CONSTRUCTIVIST
+SCHOOL}\label{the-social-constructivist-school}
 
-The Social Constructivist school views "Douglas" as a social construct. Communities, such as a fan club, academic faculty, or Congress, collaboratively define concepts and impose their definition through usage and communicative policing. Rival definitions are made illegible through the violence of misunderstanding. Systems of power load up their lexical cannons and performatively blast at the semantic bastions of their socio-economic enemies. When the walls of meaning crumble, they rush inside and indiscriminately slaughter the innocent neologisms, ideolects, and burgeoning slang words sleeping in their cradles. The fires spread, the destruction mounts, the days are long, and the few words left can't suffice to account for what was done.
+The Social Constructivist\index{Social Constructivist School of Douglas Studies} school views "Douglas" as a social
+construct. Communities, such as a fan club, academic faculty, or
+Congress, collaboratively define concepts and impose their definition
+through usage and communicative policing. Rival definitions are made
+illegible through the violence of misunderstanding. Systems of power
+load up their lexical cannons and performatively blast at the semantic
+bastions of their socio-economic enemies. When the walls of meaning
+crumble, they rush inside and indiscriminately slaughter the innocent
+neologisms, idiolects, and burgeoning slang words sleeping in their
+cradles. The fires spread, the destruction mounts, the days are long,
+and the few words left can't suffice to account for what was done.
 
-This school no longer receives substantial criticism, which substantially reduced the number of fist fights on campus.
+This school no longer receives substantial criticism, which
+substantially reduced the number of fist fights on campus.
 
-### REVIEW
+\subsubsection{REVIEW}\label{review}
 
-As you can see, "Douglas" means many things to many people. As you read the following essays, keep this always in mind: "What does Doug mean to *you*?"
+As you can see, "Douglas" means many things to many people. As you
+read the following essays, keep this always in mind: "What does Doug
+mean to *you*?"
