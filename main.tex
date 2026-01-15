@@ -18,111 +18,11 @@
 % --- FRONT MATTER (Roman numerals, no chapter numbers) ---
 \frontmatter
 
-% --- HALF TITLE PAGE ---
-\thispagestyle{empty}
-\vspace*{6cm} % Pushes the text down about 1/3rd of the page
-
-\begin{center}
-    % Use Small Caps (\scshape) for a classic, understated look
-    {\Large \scshape Donations, Deaths Roads, and Dogs}
-\end{center}
-
-% --- OPTIONAL: FAKE "ALSO BY" PAGE ---
-\newpage
-\thispagestyle{empty}
-\vspace*{5cm}
-\begin{center}
-    \textbf{Also by the Editor:}\\[1em]
-    \textit{The Progressive Gaze: Ethnographic Ethics in Extremist Studies (2017)}\\
-    \textit{God and Anime: How Western Otaku Interpret Japanese Spirituality Through a Christian Theological Lens (2020)}\\
-    \textit{The Historiography of ``Minecraft Civilization'' Videos (2023)}\\
-    \textit{Odussy: How Fan-Fiction Authors Mediate Themes of Faithfulness and Sexual Activity in the Odyssey (2024)}\\
-    \textit{Media Literacy? Wow, That's Literally Me (2025)}\\
-\end{center}
-\newpage
-
-% --- CUSTOM TITLE PAGE (Recto / Right) ---
-\begin{titlepage}
-    \centering
-    \vspace*{2cm}
-    
-    {\Huge \bfseries Donations, Death Roads, and Dogs \par} 
-    \vspace{0.5cm}
-    
-    {\Large \itshape An Anthology of Critical Douglas Studies, Third Edition \par}
-    \vspace{2.5cm}
-    
-    {\large Edited by \par}
-    {\Large Nathaniel Ingle \par}
-    
-    \vfill % Pushes the logo to the bottom
-    
-    % Logo Section
-    \includegraphics[width=0.4\textwidth]{images/logo.png} \\
-    \vspace{0.25cm}
-    {\large Saint Rosa's Cathedral Press\par}
-    \vspace{1cm}
-    
-    {\large 2026 \par}
-\end{titlepage}
-
-% Copyright Page
-\thispagestyle{empty}
-\vspace*{\fill}
-\begin{center}
-    Copyright \copyright\ 2026 by Nathaniel Ingle. \\
-
-    \vspace{1em}
-
-    % --- THE CREATIVE COMMONS NOTICE ---
-    \ccbysa\ This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License.\\
-    To view a copy of this license, visit:\\
-    \url{http://creativecommons.org/licenses/by-sa/4.0/}
-
-    \vspace{1em}
-    Cover art: Edward Weston, ``Pepper No. 30 (Colorized),'' 1930 \\ 
-    Photograph, 24.1 $\times$ 19.2 cm. Public domain.\\ 
-    \vspace{3em}
-    This is a work of satire. The authors and opinions that appear in this volume are entirely fictional. Any resemblance to real-world events, people, or movements is entirely coincidental. DougDoug may or may not be real. Douglas Studies is only real insofar as this anthology has made it so.\\
-\vspace{1.5em}
-    % --- FAKE LIBRARY OF CONGRESS BLOCK ---
-\begin{minipage}{0.9\textwidth} % Constrain width to look like a block
-    \small % Use smaller font for that "fine print" look
-    \setlength{\parskip}{0.2em}
-    \setlength{\parindent}{0pt}
-    
-    Publisher's Catalogue-in-Publication Data\\
-    
-    \textit{Donations, Death Roads, and Dogs: An Anthology of Critical Douglas Studies} / edited by Nathaniel Ingle. -- Third Edition.
-    
-    \vspace{0.5em}
-    p. cm. \\
-    Includes bibliographical references and index. \\
-    ISBN 979-8-2437-5214-5 (pbk.)
-    
-    \vspace{0.5em}
-    1. Douglas Studies--Philosophy. 2. Streaming (Technology)--Social aspects. 3. Bell peppers in popular culture. 4. Divorce--Psychological aspects. 5. Baldness--Anecdotes. I. Ingle, Nathaniel, editor. II. Title.
-    
-    \vspace{0.5em}
-    PN1992.8.S74 D68 2026 \hfill 302.23'1--dc23
-\end{minipage}
-
-\vspace{1.5em}
-
-    ISBN: 9798243752145\\
-\end{center}
-\vspace*{\fill}
-\newpage
-
-% Dedication
-\chapter*{}
-\begin{center}
-    \emph{To the viewers. \\ You truly are the main character.}
-    
-    \vspace{1em} % This creates the "blank line" (1em = height of one line of text)
-    
-    \textbf{BABAGABOOSH!!}
-\end{center}
+\include{frontmatter/half-title}
+\include{frontmatter/also-by}
+\include{frontmatter/title-page}
+\include{frontmatter/copyright-page}
+\include{frontmatter/dedication}
 
 % Table of Contents
 \tableofcontents
