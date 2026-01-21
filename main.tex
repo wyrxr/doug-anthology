@@ -60,7 +60,7 @@
 \input{articles/down-the-doghole}
 
 % One Thousand and One Dougs
-\chapter{One Thousand and One Dougs: How DOUG: A DougDoug Story Mocks Quotidian Monotony and the Dread of Death}
+\chapter{One Thousand and One Dougs: How Readers of DOUG: A DougDoug Story Mock Monotony and the Dread of Death}
 \chapterauthor{Bily Slon}
 \input{articles/one-thousand-dougs}
 
@@ -111,7 +111,7 @@
 
 % Stay Strong, Stay True
 \chapter{``Stay Strong, Stay True, Always Be Kind to Others and Always Strive to Make the World a Better Place'': Stochastic Wisdom in a Cynical Age}
-\chapterauthor{Ai Uta}
+\chapterauthor{Uta Ai}
 \input{articles/stay-strong-stay-true}
 
 % Untitled by Unknown
@@ -129,13 +129,23 @@
     \newpage
     \advance\i by 1
 \repeat
-\index{Donations, Death Roads, and Dogs|)}
-% --- BACK MATTER ---
+
+%--- BACK MATTER ---
 \backmatter
-\printindex
-% Index generation commands go here later
+
+%--- Notes on Contributors -----
+\chapter*{Notes on Contributors}
+\addcontentsline{toc}{chapter}{Notes on Contributors}
+\input{backmatter/notes-on-contributors}
+
+%--- Works Cited ---
 \printbibliography[
     title={Works Cited}, % Sets the title on the page
     heading=bibintoc     % Adds "Works Cited" to the Table of Contents
 ]
+
+%--- Index ---
+\index{Donations, Death Roads, and Dogs|)}
+\printindex
+% Index generation commands go here later
 \end{document}
