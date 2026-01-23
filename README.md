@@ -57,10 +57,10 @@ Other useful commands:
 If you prefer to compile by hand, run:
 
 ```bash
-pdflatex main
+lualatex main
 biber main
-pdflatex main
-pdflatex main
+lualatex main
+lualatex main
 ```
 
 *Note: Tools like `latexmk` or the VimTeX plugin can also manage this sequence automatically.*
