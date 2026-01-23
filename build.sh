@@ -98,8 +98,8 @@ run_latex() {
     exit 1
   fi
 
-  echo "pdflatex: pass 1"
-  pdflatex -interaction=nonstopmode -halt-on-error "$MAIN_TEX"
+  echo "lualatex: pass 1"
+  lualatex -interaction=nonstopmode -halt-on-error "$MAIN_TEX"
 
   # If biblatex/biber is used, .bcf is produced.
   if [[ -f "${MAIN_TEX}.bcf" ]]; then
@@ -109,11 +109,11 @@ run_latex() {
     echo "biber: skipped (no ${MAIN_TEX}.bcf found)"
   fi
 
-  echo "pdflatex: pass 2"
-  pdflatex -interaction=nonstopmode -halt-on-error "$MAIN_TEX"
+  echo "lualatex: pass 2"
+  lualatex -interaction=nonstopmode -halt-on-error "$MAIN_TEX"
 
-  echo "pdflatex: pass 3"
-  pdflatex -interaction=nonstopmode -halt-on-error "$MAIN_TEX"
+  echo "lualatex: pass 3"
+  lualatex -interaction=nonstopmode -halt-on-error "$MAIN_TEX"
 }
 
 clean() {
@@ -157,7 +157,7 @@ EOF
 
 main() {
   need pandoc
-  need pdflatex
+  need lualatex
   need biber
 
   local cmd="${1:-all}"
