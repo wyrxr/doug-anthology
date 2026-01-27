@@ -14,7 +14,7 @@ Take me roads
 Country roads  
 Take me death \autocite[0:09]{dougdoug_death_roads}
 
-These echo the same iconic themes found in John Denver's "Take Me Home, Country Roads," but subtly subverted. Rather than the nostalgic and elegiac, we get something anthemic and thanatic\index{death-drive}. The peaceful reprisal to uncomplicated country life has been replaced with the unapologetic desire for death itself. 
+These echo the same iconic themes found in John \cite{denver_country_roads}'s "Take Me Home, Country Roads," but subtly subverted. Rather than the nostalgic and elegiac, we get something anthemic and thanatic\index{death-drive}. The peaceful reprisal to uncomplicated country life has been replaced with the unapologetic desire for death itself. 
 
 The line "Take me roads" melds a complex set of emotions. Principally it represents the abandonment of agency, which Denver's original also delivers. But Doug introduces a grammatical ambiguity that ensures the line cannot be fully resolved. Is he addressing the roads themselves? Is he asking to be brought to these roads (as in the original "Take me home")? Is the "taking" a mere physical conveyance or a more intimate, sexual image? These unresolved questions destabilize the text, rendering it immediately as an uncooperative object, denying the listener any easy interpretation. That destabilization is immediately enhanced and implicitly parodied by the next four lines:
 

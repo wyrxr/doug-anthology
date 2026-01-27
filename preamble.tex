@@ -11,6 +11,7 @@
 \usepackage{csquotes}
 \usepackage{censor}
 \usepackage{luatexja}  % Loads Japanese support
+\usepackage{psvectorian}
 
 % --- PAGE LAYOUT ---
 \usepackage[
@@ -19,6 +20,16 @@
 	margin=0.75in,
 	bindingoffset=0.25in
 ]{geometry}
+
+% --- SCENE BREAK ---
+\newcommand{\scenebreak}{%
+  \par\vspace{0.0em} % space before
+  \begin{center}
+  \psvectorian[width=3cm]{82} 
+  \end{center}
+  \par\vspace{0.0em} % space after
+  \noindent
+}
 
 % --- CUSTOM COMMAND FOR AUTHORS (With ToC Entry) ---
 \makeatletter

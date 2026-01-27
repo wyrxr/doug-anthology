@@ -1,4 +1,4 @@
-The subsequent article was received as a cassette tape with the above title attached. The editors have transcribed it to the best of their abilities. The first voice appears to be Mr. Gregory, while the other voices remain unidentified. They have been labelled for the reader's convenience. 
+*The subsequent article was received as a cassette tape with the above title attached. The editors have transcribed it to the best of their abilities. The first voice appears to be Mr. Gregory, while the other voices remain unidentified. They have been labelled for the reader's convenience.*
 
 ---
 
