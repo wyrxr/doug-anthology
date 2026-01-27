@@ -84,6 +84,7 @@ lualatex main
 - `build.sh` — Build helper (Pandoc conversion + LaTeX/biber compilation).
 - `markdown-drafts/` — Markdown drafts that are converted to `.tex`.
 - `frontmatter/` — Front matter `.tex` files (some may be generated from Markdown).
+- `backmatter/` — Back matter `.tex` files
 - `articles/` — Individual chapter files (e.g., `the-bit.tex`).
 - `images/` — Graphics, woodcut logos, and charts.
 - `pandoc-map.tsv` — Routes drafts to `articles/` vs `frontmatter/`.
